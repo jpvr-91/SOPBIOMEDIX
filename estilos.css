@@ -1,0 +1,94 @@
+.table_tabla {
+    width: 100%;
+    border-collapse: collapse
+    }
+    .Cabecerat {
+    height: 4em;
+    }
+    .Menut {
+    background-color: rgb(75, 137, 218);
+    width: 15%;
+    }
+    .tablaP {
+    background-color: rgb(28, 89, 138);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    width: 80%;
+    height: 8em;
+    font-size: 20PX;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    }
+    .tablaLateral {
+    background-color:  rgb(75, 137, 218);
+    width: 15%;
+    color: black;
+    }
+    .pieTabla {
+    background-color: rgb(29, 28, 28);
+    padding-left: 60px; 
+    height: 3em;
+    color: white;
+    text-align: center;
+    }
+    .Banner{
+    width:100%;
+    height:5cm;
+    }
+    .call{
+         border-style:solid none;
+         width: ;
+
+   
+    }
+    .Call1{
+        padding-left: 200px;
+       
+        
+    text-align: center;
+    width: 2px; px;
+    height: 30px   ;
+    }
+    p{
+    text-align: justify;
+    }
+    .Boton{
+    width:4cm;
+    height:2cm;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    td{
+    text-align: center;
+    }
+    body{
+    background-color: black;
+    }
+    .Fin{
+    text-align: center;
+    color: white;
+    }
+    .men{
+    color: black;
+    text-align: center;
+    }
+    .h1{
+    color: white;
+    }
+    .div{
+    text-align: center;
+    }
+    h3{
+        padding-top: 10px;
+    }
+
+    .tecnologia{
+        padding-top: 10px;
+      padding-right: 250px;
+    }
+.contacto{
+    padding-left:  500px;
+    padding-right: 250px;
+    height: 400px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
