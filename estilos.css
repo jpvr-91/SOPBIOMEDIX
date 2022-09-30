@@ -37,27 +37,28 @@
     }
     .call{
          border-style:solid none;
-         width: ;
+         width: 50px ;
 
    
     }
     .Call1{
         padding-left: 200px;
-       
-        
     text-align: center;
-    width: 2px; px;
+    width: 2px; 
     height: 30px   ;
     }
+
     p{
     text-align: justify;
     }
+
     .Boton{
     width:4cm;
     height:2cm;
     margin-left: auto;
     margin-right: auto;
     }
+
     td{
     text-align: center;
     }
